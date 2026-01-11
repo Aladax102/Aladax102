@@ -14,7 +14,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vinícius Gonçalves, tenho 18 anos. Atualmente, estou interessado em desenvolvimento sistemas e segurança cibernética. Sou apaixonado por tecnologia e atualemte trabalho em projetos de sites. Desenvolvo em frontend e backend, e faço averiguação básica da segurança de dervidores.
+Me chamo Vinícius Gonçalves, tenho 18 anos. Atualmente, estou interessado e estudando desenvolvimento sistemas e segurança cibernética. Sou apaixonado por tecnologia e atualemente trabalho em projetos de sites. Desenvolvo em frontend e backend, e faço averiguação básica da segurança de dervidores.
 
 <p align="left">
     <a href="https://github.com/Aladax102?tab=repositories&sort=stargazers">
