@@ -4,8 +4,6 @@
   />
 </p>
 
----
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Anton&letterSpacing=Normal&duration=3000&pause=1000&color=18F7E6&center=true&vCenter=true&width=435&lines=Fullstack+e+desenvolvedor"
