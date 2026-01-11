@@ -13,7 +13,7 @@
 **`Desenvolvedor/FullStack`**
 <p>Sou desenvolvedor e gosto de criar soluções pra problemas de programação. Tudo que crio é visando explorar a criatividade, e resolução de problemas cibernéticos. Então quanto mais eu domino as ferramentas que tiver, melhor.</p>
 
-I'm a developer and I enjoy creating solutions to programming problems. Everything I create is aimed at exploring creativity and solving cyber problems. So the more I master the tools I have, the better.
+I'm a developer and I enjoy creating solutions to programming problems. Everything I create is aimed at exploring creativity and solving cyber problems. So the more I master the tools I have, better.
 
 
 <p align="left">
