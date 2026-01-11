@@ -1,6 +1,16 @@
-#  <h1 align="center" style="color: #18F7E6FF;">Vinícius Gonçalves</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&text=Vinícius%20Gonçalves&fontSize=48&fontColor=18F7E6&font=VCR+OSD+Mono"
+  />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&letterSpacing=Normal&duration=3000&pause=1000&color=18F7E6&center=true&vCenter=true&width=435&lines=Fullstack+e+desenvolvedor)](https://git.io/typing-svg)
+---
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Anton&letterSpacing=Normal&duration=3000&pause=1000&color=18F7E6&center=true&vCenter=true&width=435&lines=Fullstack+e+desenvolvedor"
+  />
+</p>
 
 **`Desenvolvedor FullStack`**
 
