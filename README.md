@@ -10,8 +10,10 @@
   />
 </p>
 
-**`Desenvolvedor FullStack`**
-<p></p>
+**`Desenvolvedor/FullStack`**
+<p>Sou desenvolvedor e gosto de criar soluções pra problemas de programação. Tudo que crio é visando explorar a criatividade, e resolução de problemas cibernéticos. Então quanto mais eu domino as ferramentas que tiver, melhor.</p>
+
+I'm a developer and I enjoy creating solutions to programming problems. Everything I create is aimed at exploring creativity and solving cyber problems. So the more I master the tools I have, the better.
 
 
 <p align="left">
@@ -66,6 +68,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
