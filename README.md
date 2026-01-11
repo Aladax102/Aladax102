@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&text=Vinícius%20Gonçalves&fontSize=48&fontColor=18F7E6&font=VCR+OSD+Mono"
+    src="https://capsule-render.vercel.app/api?type=transparent&text=Aladax&fontSize=48&fontColor=18F7E6&font=VCR+OSD+Mono"
   />
 </p>
 
@@ -11,9 +11,8 @@
 </p>
 
 **`Desenvolvedor FullStack`**
-<p>My name is Vinícius Gonçalves, I'm 18 years old. I am currently interested in and studying systems development and cybersecurity. I'm passionate about technology and currently work on website projects. I develop on both frontend and backend, and perform basic security checks on dervidors.</p>
+<p></p>
 
-Me chamo Vinícius Gonçalves, tenho 18 anos. Atualmente, estou interessado e estudando desenvolvimento sistemas e segurança cibernética. Sou apaixonado por tecnologia e atualemente trabalho em projetos de sites. Desenvolvo em frontend e backend, e faço averiguação básica da segurança de dervidores.
 
 <p align="left">
     <a href="https://github.com/Aladax102?tab=repositories&sort=stargazers">
