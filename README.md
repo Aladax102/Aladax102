@@ -71,8 +71,8 @@ I'm a developer and I enjoy creating solutions to programming problems. Everythi
 />
 <img
     align="left" 
-    alt="React"
-    title="React" 
+    alt="csharp"
+    title="csharp" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
@@ -165,7 +165,11 @@ I'm a developer and I enjoy creating solutions to programming problems. Everythi
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
+/> 
+#
+
+
+---
 
 ### Status
 ![Aladax102 GitHub stats](https://github-readme-stats.vercel.app/api?username=Aladax102&show_icons=true&theme=gruvbox)
