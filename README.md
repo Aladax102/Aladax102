@@ -166,7 +166,9 @@ I'm a developer and I enjoy creating solutions to programming problems. Everythi
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
-          
+
+### Status
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=aladax102&show_icons=true&theme=gruvbox)
 
 <br/>
 <br/>
