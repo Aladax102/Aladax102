@@ -119,14 +119,6 @@ I'm a developer and I enjoy creating solutions to programming problems. Everythi
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Laravel" 
     title="Laravel"
     width="30px" 
