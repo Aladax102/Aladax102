@@ -163,8 +163,5 @@ I'm a developer and I enjoy creating solutions to programming problems. Everythi
 
 ---
 
-### Status
-![Aladax102 GitHub stats](https://github-readme-stats.vercel.app/api?username=Aladax102&show_icons=true&theme=gruvbox)
-
 <br/>
 <br/>
